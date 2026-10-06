@@ -1,13 +1,20 @@
-# 🛡️ Device Risk Analysis
+<div align="center">
 
-[![Python 3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.4+-orange.svg)](https://scikit-learn.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.35+-red.svg)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+🛡️ DEVICE RISK ANALYSIS
+🔐 Machine Learning Powered Cybersecurity Risk Classification
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Detect+Device+Security+Risk;Low+%7C+Medium+%7C+High;Compare+6+Machine+Learning+Models;Tune+%26+Evaluate+the+Champion;Deploy+with+Streamlit" alt="Typing SVG" />
 
-An end-to-end Machine Learning based cybersecurity classification system that ingests multi-dimensional device telemetry, analyzes security vulnerabilities, evaluates multiple classification models, and provides real-time risk predictions through an interactive Streamlit web dashboard.
+<p>
+<img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Scikit--Learn-1.4%2B-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-1.35%2B-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
+</p>
 
----
+Case Study No. 86 • Machine Learning • B.Tech CSE • ITM Skills University
+👨‍💻 Developed by Atharva Gahine
+</div>
+
 
 ### 🎓 Academic Information
 * **Student Name:** Atharva Gahine
@@ -202,7 +209,14 @@ The Streamlit web application features 6 responsive pages:
 ---
 
 ## 👩‍💻 Author & Academic Attribution
-* **Candidate:** Atharva Gahine
-* **Degree:** B.Tech Computer Science & Engineering (Semester V)
-* **University:** ITM SKILLS UNIVERSITY, School of Future Tech
-* **Case Study:** Case Study No. 86 (Device Risk Analysis)
+- Candidate: Atharva Gahine
+- Degree: B.Tech Computer Science & Engineering (Semester V)
+- University: ITM SKILLS UNIVERSITY, School of Future Tech
+- Case Study: Case Study No. 86 (Device Risk Analysis)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7F5CFF,100:00FF88&height=130&section=footer&text=DEVICE%20RISK%20ANALYSIS&fontSize=28&fontColor=ffffff&animation=twinkling" alt="Animated footer">
+
+⭐ If you found this project useful, consider starring the repository!
+Built with 🧠 Machine Learning • 🐍 Python • 🛡️ Cybersecurity
+</div>
